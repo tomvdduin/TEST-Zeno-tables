@@ -40,8 +40,6 @@ Reference list of export_types from internal.fixed.filters
      JAVA CLASS
      JAVA DATA
 */
--- TEST alleen objecten met een Q
-object_name like 'Q%',
 
 -- Liquibase Tables
 object_type != 'TABLE' or object_name not in ('DATABASECHANGELOG',

@@ -5,7 +5,7 @@
     "autoConnect" : false,
     "version" : "26.1.2.0"
   },
-  "schemas" : [ "ZENOTEST" ],
+  "schemas" : [ "TDULAB" ],
   "lastReleaseVersion" : "",
   "export" : {
     "format" : {
