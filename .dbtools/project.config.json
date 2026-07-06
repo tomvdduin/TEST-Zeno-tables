@@ -1,7 +1,7 @@
 {
   "project" : "TEST Zeno Tables",
   "sqlcl" : {
-    "connectionName" : "Socho ontwikkel",
+    "connectionName" : "TDULAB",
     "autoConnect" : false,
     "version" : "26.1.2.0"
   },
